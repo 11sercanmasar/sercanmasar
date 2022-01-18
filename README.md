@@ -12,6 +12,6 @@ In particular, i like to experience new technologies and learn new programing la
 <p align="center" >
   <a href="https://github.com/ugurcandede"> 
     <img height="160px" alt="SercanMasar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=11sercanmasar&show_icons=true&hide_border=true&theme=radical"/>
-    <img height="160px" alt="SercanMasar's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcandede&layout=compact&hide_border=true&theme=radical" />
+    <img height="160px" alt="SercanMasar's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11sercanmasar&layout=compact&hide_border=true&theme=radical" />
   </a>
 </p>
